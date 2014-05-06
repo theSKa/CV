@@ -8,7 +8,7 @@ I recently spent 12 weeks at Makers Academy, an intensive 12-week training progr
 
 ### Notable Projects
 
-| Soma/Somatra | [Snappygram](https://github.com/NotTheUsual/Snappygram) | [Chitter](https://github.com/NotTheUsual/Chitter) |
+| [Soma](https://github.com/NotTheUsual/Soma)/[Somatra](https://github.com/NotTheUsual/somatra) | [Snappygram](https://github.com/NotTheUsual/Snappygram) | [Chitter](https://github.com/NotTheUsual/Chitter) |
 | ------------ | ---------- | ------- |
 | Final Project. Rails apps that aim to provide a health dashboard. Soma is an API that parses and stores blood test data. Somatra is a sample client app that makes use of that data using D3.js, and pulls in other sources of information for context (using e.g. the Moves API). | Instagram-like. Rails app that lets you upload photos to a public feed with Paperclip. Uses EXIF data to plot photos on a map. Uses Stripe to allow for purchasing photos. | Twitter-like. Sinatra app that lets you upload short messages to a public feed. Also allows you to reply to other messages. |
 
@@ -16,6 +16,8 @@ I recently spent 12 weeks at Makers Academy, an intensive 12-week training progr
 ## Experience
 
 ### (2012-14) Freelance Graphic Design
+
+My design portfolio is available on [Behance](https://www.behance.net/JADH), with a few more examples of that work on [Tumblr](http://jh704.tumblr.com/).
 
 #### REBRANDING for Smart Works
 Designed new logo, website, business card and letterhead
