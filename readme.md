@@ -1,19 +1,26 @@
 # CV
 
-I spent the last year and a half (or so) working as a freelance web designer, and became slightly tired of not being able to control how anything I worked on, well, worked. So I've made the switch to development through the course detailed below, and can now pretty happily control the functioning of web apps made with Rails or Sinatra. I'm now looking for a junior development role to help me learn far, far more.
+I used to work as a freelance web designer but became slightly tired of not being able to control how anything I worked on, well, worked. So at the start of 2014, I joined Makers Academy to learn how to develop and it seems to have turned out OK. Since then I’ve mostly worked for Megaphone, working with Rails and Cordova, and all kinds of other interesting stuff.
 
-## Recent Training
+## Recent Work
 
-I recently spent 12 weeks at Makers Academy, an intensive 12-week training program for web development, ultimately focussed on Ruby on Rails. Over the course of the 12 weeks, we learnt Ruby, Sinatra, Rails, some Javascript and various agile techniques including test-driven development and pair programming. The results of that course make up the majority of the work on this account. Take a look around to get a better sense of what it involved.
+For Megaphone, I was the sole developer on MonthlyCollage and one of two on RoundUp (mostly focussed on the app, not the server).
 
-### Notable Projects
-
-| [Soma](https://github.com/NotTheUsual/Soma)/[Somatra](https://github.com/NotTheUsual/somatra) | [Snappygram](https://github.com/NotTheUsual/Snappygram) | [Chitter](https://github.com/NotTheUsual/Chitter) |
-| ------------ | ---------- | ------- |
-| Final Project. Rails apps that aim to provide a health dashboard. Soma is an API that parses and stores blood test data. Somatra is a sample client app that makes use of that data using D3.js, and pulls in other sources of information for context (using e.g. the Moves API). | Instagram-like. Rails app that lets you upload photos to a public feed with Paperclip. Uses EXIF data to plot photos on a map. Uses Stripe to allow for purchasing photos. | Twitter-like. Sinatra app that lets you upload short messages to a public feed. Also allows you to reply to other messages. |
+| MonthlyCollage | RoundUp |
+| ------------ | ---------- |
+| Rails app that checks your Instagram photos every month, and makes a collage of all the photos it finds. Sends you an email and everything. Sign up at MonthlyCollage.com, if you fancy. | Events with friends made easy (says the tagline)! Made with Cordova/Ionic (/Angular). Little bits of Swift round the edges for extra touches of functionality. Available on your friendly neighbourhood App Store (so long as your app store is Apple’s, Google’s or Microsoft’s…) |
 
 
 ## Experience
+
+### (2014-) Web Development
+
+#### Megaphone
+You read the previous paragraph, right? Well, that.
+
+### (2014) Makers Academy
+
+12-week intensive “boot camp” course, which sought me Ruby, Rails, and much more. Notable projects include [Soma](https://github.com/NotTheUsual/Soma)/[Somatra](https://github.com/NotTheUsual/somatra) - Rails API with D3 goodness on the front end; [Snappygram](https://github.com/NotTheUsual/Snappygram) - Instagram-like with image handling/payments/mapping; [Chitter](https://github.com/NotTheUsual/Chitter) - Twitter-like in Sinatra.
 
 ### (2012-14) Freelance Graphic Design
 
