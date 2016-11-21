@@ -2,13 +2,15 @@
 
 I used to work as a freelance web designer but became slightly tired of not being able to control how anything I worked on, well, worked. So at the start of 2014, I joined Makers Academy to learn how to develop and it seems to have turned out OK. Since then I’ve mostly worked for Megaphone, working with Rails and Cordova, and all kinds of other interesting stuff.
 
+For an overview of everything I've uploaded here, take a look at [this](https://github.com/NotTheUsual/index.html).
+
 ## Recent Work
 
 For Megaphone, I was the sole developer on MonthlyCollage and one of two on RoundUp (mostly focussed on the app, not the server).
 
 | MonthlyCollage | RoundUp |
 | ------------ | ---------- |
-| Rails app that checks your Instagram photos every month, and makes a collage of all the photos it finds. Sends you an email and everything. Sign up at MonthlyCollage.com, if you fancy. | Events with friends made easy (says the tagline)! Made with Cordova/Ionic (/Angular). Little bits of Swift round the edges for extra touches of functionality. Available on your friendly neighbourhood App Store (so long as your app store is Apple’s, Google’s or Microsoft’s…) |
+| Rails app that checks your Instagram photos every month, and makes a collage of all the photos it finds. Sends you an email and everything. Sign up at MonthlyCollage.com, if you fancy. | Events with friends made easy (says the tagline)! Made with Cordova/Ionic (/Angular). Little bits of Swift round the edges for extra touches of functionality. Hint of Node on the server for good measure. Available on your friendly neighbourhood App Store (so long as your app store is Apple’s, Google’s or Microsoft’s…) |
 
 
 ## Experience
@@ -16,7 +18,7 @@ For Megaphone, I was the sole developer on MonthlyCollage and one of two on Roun
 ### (2014-) Web Development
 
 #### Megaphone
-You read the previous paragraph, right? Well, that.
+You read the previous section, right? Well, that.
 
 ### (2014) Makers Academy
 
@@ -38,6 +40,7 @@ Installed the website, took photos for featured images
 #### PRINT DESIGN for Action for Stammering Children
 Designed a 20 page programme for a charity evening, with posters and a flyer
 Designed business cards, compliments slips and raffle certificates
+Designed three years of accounts.
 
 #### Other WEB DESIGN
 Personal page for a philosophy lecturer; network of sites for a theatre company; website for a family meetup. All done as Wordpress themes using HTML/LESS and basic PHP.
