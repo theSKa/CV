@@ -1,6 +1,6 @@
 # CV
 
-I used to work as a freelance web designer but became slightly tired of not being able to control how anything I worked on, well, worked. So at the start of 2014, I joined Makers Academy to learn how to develop and it seems to have turned out OK. Since then I’ve mostly worked for Megaphone, working with Rails and Cordova, and all kinds of other interesting stuff.
+I used to work as a web designer but became slightly tired of not being able to control how anything I worked on, well, worked. So at the start of 2014, I joined Makers Academy to learn how to develop and it seems to have turned out OK. Since then I’ve mostly worked for Megaphone, working with Rails and Cordova, and all kinds of other interesting stuff. I think I'm pretty alright at Ruby, Javascript, HTML and CSS (with Sinatra/Rails/Angular1/{LE,SA}SS on top), and have worked with bits of Node/Swift/Java/C# to a far more limited degree (willing to try new things! is what I'm trying to say).
 
 For an overview of everything I've uploaded here, take a look at [this](https://github.com/NotTheUsual/index.html).
 
@@ -10,7 +10,7 @@ For Megaphone, I was the sole developer on MonthlyCollage and one of two on Roun
 
 | MonthlyCollage | RoundUp |
 | ------------ | ---------- |
-| Rails app that checks your Instagram photos every month, and makes a collage of all the photos it finds. Sends you an email and everything. Sign up at MonthlyCollage.com, if you fancy. | Events with friends made easy (says the tagline)! Made with Cordova/Ionic (/Angular). Little bits of Swift round the edges for extra touches of functionality. Hint of Node on the server for good measure. Available on your friendly neighbourhood App Store (so long as your app store is Apple’s, Google’s or Microsoft’s…) |
+| Rails app that checks your Instagram photos every month, and makes a collage of all the photos it finds. Sends you an email and everything. Sign up at MonthlyCollage.com, if you fancy. | Events with friends made easy (says the tagline)! Made with Cordova/Ionic(/Angular). Little bits of Swift round the edges for extra touches of functionality. Hint of Node on the server for good measure. Available on your friendly neighbourhood App Store (so long as your app store is Apple’s, Google’s or Microsoft’s…) |
 
 
 ## Experience
@@ -26,7 +26,7 @@ You read the previous section, right? Well, that.
 
 ### (2012-14) Freelance Graphic Design
 
-My design portfolio is available on [Behance](https://www.behance.net/JADH), with a few more examples of that work on [Tumblr](http://jh704.tumblr.com/).
+My design portfolio is available on [Behance](https://www.behance.net/JADH), with a few more examples of that work on [Tumblr](http://jh704.tumblr.com/portfolio).
 
 #### REBRANDING for Smart Works
 Designed new logo, website, business card and letterhead
