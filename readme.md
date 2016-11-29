@@ -22,7 +22,7 @@ You read the previous section, right? Well, that.
 
 ### (2014) Makers Academy
 
-12-week intensive “boot camp” course, which sought me Ruby, Rails, and much more. Notable projects include [Soma](https://github.com/NotTheUsual/Soma)/[Somatra](https://github.com/NotTheUsual/somatra) - Rails API with D3 goodness on the front end; [Snappygram](https://github.com/NotTheUsual/Snappygram) - Instagram-like with image handling/payments/mapping; [Chitter](https://github.com/NotTheUsual/Chitter) - Twitter-like in Sinatra.
+12-week intensive “boot camp” course, which tought me Ruby, Rails, and much more. Notable projects include [Soma](https://github.com/NotTheUsual/Soma)/[Somatra](https://github.com/NotTheUsual/somatra) - Rails API with D3 goodness on the front end; [Snappygram](https://github.com/NotTheUsual/Snappygram) - Instagram-like with image handling/payments/mapping; [Chitter](https://github.com/NotTheUsual/Chitter) - Twitter-like in Sinatra.
 
 ### (2012-14) Freelance Graphic Design
 
