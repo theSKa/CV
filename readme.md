@@ -15,7 +15,12 @@ For Megaphone, I was the sole developer on MonthlyCollage and one of two on Roun
 
 ## Experience
 
-### (2014-) Web Development
+### (August 2020 - ) Generation Home
+Building a new kind of mortgage.
+
+### (Jan 2016 - July 2020) Starling Bank
+
+### (2014- Dec 2016) Web Development
 
 #### Megaphone
 You read the previous section, right? Well, that.
